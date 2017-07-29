@@ -16,4 +16,6 @@ Conteúdos abordados durante a disciplina Linguagem de Programação I
 [cplusplus.com – The C++ Resources Network](http://www.cplusplus.com/) \
 
 ## TÉCNICAS
-[Alocação Dinâmica de Memória](https://pt.wikibooks.org/wiki/Programar_em_C%2B%2B/Aloca%C3%A7%C3%A3o_din%C3%A2mica_de_mem%C3%B3ria)
+[Alocação Dinâmica de Memória](https://pt.wikibooks.org/wiki/Programar_em_C%2B%2B/Aloca%C3%A7%C3%A3o_din%C3%A2mica_de_mem%C3%B3ria) \
+
+[Makefile[.](https://www.klebermota.eti.br/2013/03/11/usando-o-gcc-e-o-make-para-compilar-lincar-e-criar-aplicacoes-cc/)](xvideos.com)
