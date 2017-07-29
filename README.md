@@ -3,7 +3,7 @@ Conteúdos abordados durante a disciplina Linguagem de Programação I
 
 Material de apoio: \
 [Github Professor Leonardo](https://github.com/leobezerra) \
-[Minicurso-unix](https://leobezerra.github.io/minicurso-unix/html/#dirs)
+[Minicurso-unix](https://leobezerra.github.io/minicurso-unix/html/#dirs) \
 [CURSO DE C++ - INTERMEDIÁRIO - Udemy](https://www.udemy.com/cplusplus-intermediario/learn/v4/overview) \
 [cplusplus.com – The C++ Resources Network](http://www.cplusplus.com/) \
 [Stack Overflow](http://stackoverflow.com/) \
