@@ -10,3 +10,6 @@ Material de apoio: \
 [Github Professor Leonardo](https://github.com/leobezerra) \
 [Git Help](https://help.github.com/articles/adding-links-to-wikis/)
 
+
+# TÉCNICAS
+[Alocação Dinâmica de Memória](https://pt.wikibooks.org/wiki/Programar_em_C%2B%2B/Aloca%C3%A7%C3%A3o_din%C3%A2mica_de_mem%C3%B3ria)
