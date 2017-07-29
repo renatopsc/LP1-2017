@@ -2,14 +2,12 @@
 Conteúdos abordados durante a disciplina Linguagem de Programação I
 
 Material de apoio:
-
-•  IFRN: https://wiki.sj.ifsc.edu.br/wiki/index.php/Introdu%C3%A7%C3%A3o_C%2B%2B#Acessando_strings_como_se_fossem_arquivos \
-• cplusplus.com – The C++ Resources Network: http://www.cplusplus.com/ \
-• cppreference.com: http://en.cppreference.com/w/ \
-• Stack Overflow: http://stackoverflow.com/ \
-http://www.cplusplus.com/ \
+[cplusplus.com – The C++ Resources Network](http://www.cplusplus.com/)
+[Stack Overflow](http://stackoverflow.com/)
+[cppreference.com](http://en.cppreference.com/w/)
 
 
-[https://wiki.sj.ifsc.edu.br/wiki/index.php/Introdu%C3%A7%C3%A3o_C%2B%2B](URL_to_wiki)
+[SITE CPP.COM](http://www.cplusplus.com/)
+[Site do IFRN](https://wiki.sj.ifsc.edu.br/wiki/index.php/Introdu%C3%A7%C3%A3o_C%2B%2B)
 
-[Link Text](https://wiki.sj.ifsc.edu.br/wiki/index.php/Introdu%C3%A7%C3%A3o_C%2B%2B)
+[Github Professor Leonardo](https://github.com/leobezerra)
