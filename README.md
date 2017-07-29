@@ -8,7 +8,7 @@ Material de apoio: \
 [SITE CPP.COM](http://www.cplusplus.com/) \
 [Site do IFRN](https://wiki.sj.ifsc.edu.br/wiki/index.php/Introdu%C3%A7%C3%A3o_C%2B%2B) \
 [Github Professor Leonardo](https://github.com/leobezerra) \
-[Git Help](https://help.github.com/articles/adding-links-to-wikis/)
+[Git Help](https://help.github.com/articles/adding-links-to-wikis/) \
 [CURSO DE C++ - INTERMEDIÁRIO - Udemy](https://www.udemy.com/cplusplus-intermediario/learn/v4/overview)
 
 # TÉCNICAS
