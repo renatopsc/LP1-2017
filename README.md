@@ -7,3 +7,4 @@ Material de apoio:
 • cplusplus.com – The C++ Resources Network: http://www.cplusplus.com/ \
 • cppreference.com: http://en.cppreference.com/w/ \
 • Stack Overflow: http://stackoverflow.com/ \
+http://www.cplusplus.com/ \
