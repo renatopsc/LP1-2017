@@ -4,6 +4,7 @@ Conteúdos abordados durante a disciplina Linguagem de Programação I
 ## Material de apoio 
 [Github Professor Leonardo](https://github.com/leobezerra) \
 [Minicurso-unix](https://leobezerra.github.io/minicurso-unix/html/#dirs) \
+[Minicurso git](https://github.com/renatopsc/LP1-2017/blob/master/Materiais/Git%20%20%20Hub.pdf) \
 [Noções Básicas de Git](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git) \
 [CURSO DE C++ - INTERMEDIÁRIO - Udemy](https://www.udemy.com/cplusplus-intermediario/learn/v4/overview) \
 [Site do IFRN](https://wiki.sj.ifsc.edu.br/wiki/index.php/Introdu%C3%A7%C3%A3o_C%2B%2B) \
