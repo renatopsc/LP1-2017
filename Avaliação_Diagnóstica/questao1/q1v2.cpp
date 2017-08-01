@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include <stdlib.h>     /* strtof */
+#include <cstdlib>     /* strtof */
 
 using namespace std;
 
