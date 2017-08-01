@@ -8,7 +8,8 @@ Conteúdos abordados durante a disciplina Linguagem de Programação I
 [Noções Básicas de Git](https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git) \
 [CURSO DE C++ - INTERMEDIÁRIO - Udemy](https://www.udemy.com/cplusplus-intermediario/learn/v4/overview) \
 [Site do IFRN](https://wiki.sj.ifsc.edu.br/wiki/index.php/Introdu%C3%A7%C3%A3o_C%2B%2B) \
-[Git Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 
+[Git Help](https://help.github.com/articles/basic-writing-and-formatting-syntax/) \
+[Git-guia](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 ## Sites para buscas 
 [SITE CPP.COM](http://www.cplusplus.com/) \
 [cppreference.com](http://en.cppreference.com/w/) \
